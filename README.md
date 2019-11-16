@@ -3,7 +3,7 @@
 * [Issue](https://github.com/zeit/next.js/issues/9436)
 * [Screencast](https://youtu.be/7Wbh7WgZNgg)
 
-## TypeScript Trace
+## TypeScript Trace from Screencast
 
 ```log
 [Trace  - 23:39:35] <semantic> Sending request: quickinfo (121). Response expected: yes. Current queue length: 0
