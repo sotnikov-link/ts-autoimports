@@ -1,0 +1,22 @@
+{
+  "name": "autoimport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Valeriy Sotnikov <sotnikov.link@mail.ru>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.1.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.7",
+    "@types/react": "^16.9.11",
+    "typescript": "^3.7.2"
+  }
+}
